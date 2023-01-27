@@ -2,7 +2,7 @@ import java.util.Arrays;
 public class EjemploArreglosFor {
     public static void main(String[] args) {
 
-        Strin[] productos = new String[7];
+        String[] productos = new String[7];
         int count = productos.length;
 
         productos[0] = "Kingston Pendrive 64GB";
