@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MatrizEnEquis {
+public class MatrizImprimirEquis {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa el tamaño de la matriz: ");
