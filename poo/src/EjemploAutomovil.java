@@ -14,14 +14,10 @@ public class EjemploAutomovil {
         mazda.color = "blanco";
         mazda.cilindrada = 3.0;
 
-        System.out.println("hyundai.fabricante = " + hyundai.fabricante);
-        System.out.println("hyundai.fabricante = " + hyundai.modelo);
-        System.out.println("hyundai.fabricante = " + hyundai.color);
-        System.out.println("hyundai.fabricante = " + hyundai.cilindrada);
-
-        System.out.println("mazda.fabricante = " + mazda.fabricante);
-        System.out.println("mazda.fabricante = " + mazda.modelo);
-        System.out.println("mazda.fabricante = " + mazda.color);
-        System.out.println("mazda.fabricante = " + mazda.cilindrada);
+        System.out.println(hyundai.detalle());
+        System.out.println();
+        System.out.println(mazda.detalle());
+        System.out.println(hyundai.acelerarFrenar(3000));
+        System.out.println("Kilometros por litro " + hyundai.calcularConsumo(300, 0.6f));
     }
 }
