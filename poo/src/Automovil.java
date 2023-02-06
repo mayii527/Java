@@ -1,7 +1,49 @@
+import java.awt.geom.AffineTransform;
+
 public class Automovil {
-    String fabricante, modelo, color;
-    double cilindrada;
-    int capacidadEstanque = 40;
+    private String fabricante, modelo, color;
+    private double cilindrada;
+    //constructor
+    public Automovil(String fabricante, String modelo){
+        this.fabricante = fabricante;
+        this.modelo = modelo;
+    }
+    //Constructor vació
+    public Automovil(){
+
+    }
+    //Setter and Getter.
+    public String getFabricante() {
+        return fabricante;
+    }
+
+    public void setFabricante(String fabricante) {
+        this.fabricante = fabricante;
+    }
+
+    public String getModelo() {
+        return modelo;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public double getCilindrada() {
+        return cilindrada;
+    }
+
+    public void setCilindrada(double cilindrada) {
+        this.cilindrada = cilindrada;
+    }
 
     public String detalle(){
         StringBuilder sb = new StringBuilder();
@@ -26,6 +68,7 @@ public class Automovil {
     }
 
     public float calcularConsumo(int km, float porcentajeBencina){
+        int capacidadEstanque = 40;
         return km / (capacidadEstanque * porcentajeBencina);
     }
 }
