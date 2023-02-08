@@ -3,7 +3,7 @@ public enum TipoAutomovil {
     CONVERTIBLE("Convertible", 2,"Auto deportivo"),
     CAMIONETA("Camioneta", 4,"Auto Grande"),
     COOPER("Cooper", 2,"Auto pequeño deportivo"),
-    FURGON("Furgon", 2,"Auto utilitario");
+    FURGON("Furgon", 3,"Auto utilitario");
 
     private  final String nombre;
     private  final int numeroPuerta;
