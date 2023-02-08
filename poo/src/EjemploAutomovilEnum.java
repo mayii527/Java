@@ -18,6 +18,7 @@ public class EjemploAutomovilEnum {
         System.out.println("Tipo Mazda: "+ tipo.getNombre());
         System.out.println("Descr. Mazda: "+ tipo.getDescription());
 
+        //Switch
         switch (tipo) {
             case CONVERTIBLE ->
                     System.out.println("El automovil es deportivo y descapotable de 2 puertas");
@@ -31,6 +32,7 @@ public class EjemploAutomovilEnum {
                     System.out.println("Es un automovil común de 4 puertas");
         }
 
+        //Foreach
         TipoAutomovil[] tipos = TipoAutomovil.values();
         for (TipoAutomovil tA: tipos) {
             System.out.println(tA.name()+ " -> "+
