@@ -1,8 +1,8 @@
-import java.awt.geom.AffineTransform;
-
 public class Automovil {
-    private String fabricante, modelo, color;
+    private String fabricante, modelo;
+    private Color color;
     private double cilindrada;
+    private TipoAutomovil tipo;
     //constructor
     public Automovil(String fabricante, String modelo){
         this.fabricante = fabricante;
@@ -29,11 +29,11 @@ public class Automovil {
         this.modelo = modelo;
     }
 
-    public String getColor() {
+    public Color getColor() {
         return color;
     }
 
-    public void setColor(String color) {
+    public void setColor(Color color) {
         this.color = color;
     }
 
@@ -45,12 +45,23 @@ public class Automovil {
         this.cilindrada = cilindrada;
     }
 
+    public TipoAutomovil getTipo() {
+        return tipo;
+    }
+
+    public void setTipo(TipoAutomovil tipo) {
+        this.tipo = tipo;
+    }
+
     public String detalle(){
         StringBuilder sb = new StringBuilder();
         sb.append("fabricante = ").append(this.fabricante);
         sb.append("\nmodelo = ").append(this.modelo);
         sb.append("\ncolor = ").append(this.color);
         sb.append("\ncilindrada = ").append(this.cilindrada);
+        sb.append("\nTipo = ").append(this.getTipo().getNombre());
+        sb.append("\nPuertas = ").append(this.getTipo().getNumeroPuerta());
+        sb.append("\nDescription = ").append(this.getTipo().getDescription());
         return sb.toString();
     }
 
