@@ -1,8 +1,8 @@
 public class Persona {
-    private System nombre;
-    private System apellido;
+    private String nombre;
+    private String apellido;
 
-    public Persona(System nombre, System apellido) {
+    public Persona(String nombre, String apellido) {
         this.nombre = nombre;
         this.apellido = apellido;
     }

@@ -98,6 +98,7 @@ public class Automovil {
         sb.append("\ncilindrada = ").append(this.motor.getCilindrada());
         sb.append("\nTipo = ").append(this.getTipo().getNombre());
         sb.append("\nPuertas = ").append(this.getTipo().getNumeroPuerta());
+        sb.append("\nconductor = ").append(this.getConductor());
         sb.append("\nDescription = ").append(this.getTipo().getDescription());
         return sb.toString();
     }
