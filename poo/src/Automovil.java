@@ -1,4 +1,4 @@
-public class Automovil {
+public class Automovil implements Comparable<Automovil>{
     private String fabricante, modelo;
     private Color color;
     private Motor motor;
@@ -120,5 +120,15 @@ public class Automovil {
     public float calcularConsumo(int km, float porcentajeBencina) {
         int capacidadEstanque = 40;
         return km / (capacidadEstanque * porcentajeBencina);
+    }
+
+    @Override
+    public String toString() {
+        return fabricante +" "+  color;
+    }
+
+    @Override
+    public int compareTo(Automovil a) {
+        return this.fabricante.compareTo(a.fabricante);
     }
 }
