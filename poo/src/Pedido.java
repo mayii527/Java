@@ -61,6 +61,6 @@ public class Pedido {
         for (ProductoCompra pc: elementos3){
             System.out.println("Fabricante: "+ pc.getFabricante() +" | Producto: "+ pc.getNombre() +" | Precio: "+ pc.getPrecio());
         }
-            System.out.println("Total del pedido: "+ formatoImporte.format(pedido3.totalpedido(pedido3)));
+        System.out.println("Total del pedido: "+ formatoImporte.format(pedido3.totalpedido(pedido3)));
     }
 }
