@@ -6,8 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo/Poo.iml" filepath="$PROJECT_DIR$/Poo/Poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/appFacturas/appFacturas.iml" filepath="$PROJECT_DIR$/appFacturas/appFacturas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo_Herencia/poo_Herencia.iml" filepath="$PROJECT_DIR$/Poo_Herencia/poo_Herencia.iml" />
     </modules>
   </component>
 </project>
