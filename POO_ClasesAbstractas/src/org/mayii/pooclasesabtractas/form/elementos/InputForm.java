@@ -1,6 +1,6 @@
 package org.mayii.pooclasesabtractas.form.elementos;
 
-public class InputForm extends ElementoForm{
+public class InputForm extends ElementoForm {
 
     private String tipo = "text";
 
@@ -23,8 +23,8 @@ public class InputForm extends ElementoForm{
 
     @Override
     public String dibujarHTML() {
-        return "<input type='"+ this.tipo
-                +"' name='" +this.nombre
-                +"' value='"+this.valor + "'>";
+        return "<input type='" + this.tipo
+                + "' name='" + this.nombre
+                + "' value='" + this.valor + "'>";
     }
 }

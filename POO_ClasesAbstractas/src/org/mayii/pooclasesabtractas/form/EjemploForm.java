@@ -20,16 +20,16 @@ public class EjemploForm {
         SelectForm lenguaje = new SelectForm("lenguaje");
         Opcion java = new Opcion("1", "Java");
         lenguaje.addOpcion(java)
-        .addOpcion(new Opcion("2", "Python"))
-        .addOpcion(new Opcion("3", "JavaScript"))
-        .addOpcion(new Opcion("4", "TypeScript"))
-        .addOpcion(new Opcion("5", "PHP"));
+                .addOpcion(new Opcion("2", "Python"))
+                .addOpcion(new Opcion("3", "JavaScript"))
+                .addOpcion(new Opcion("4", "TypeScript"))
+                .addOpcion(new Opcion("5", "PHP"));
 
         ElementoForm saludar = new ElementoForm("saludo") {
             @Override
             public String dibujarHTML() {
-                return "<input disabled name='"+this.nombre
-                        +"' value='"+this.valor+"'>";
+                return "<input disabled name='" + this.nombre
+                        + "' value='" + this.valor + "'>";
             }
         };
 
