@@ -3,7 +3,7 @@ package org.mayii.poointerfaces.imprenta.modelo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Curriculum extends Hoja{
+public class Curriculum extends Hoja implements Imprimible {
 
     private String persona;
     private String carrera;
@@ -16,7 +16,7 @@ public class Curriculum extends Hoja{
         this.experiancias = new ArrayList<>();
     }
 
-    public Curriculum addExperiancia(String exp){
+    public Curriculum addExperiancia(String exp) {
         experiancias.add(exp);
         return this;
     }
@@ -29,7 +29,7 @@ public class Curriculum extends Hoja{
                 .append("\n").append("Profession: ")
                 .append(carrera).append("\n")
                 .append("Experiancia: ").append("\n");
-        for (String exp: experiancias){
+        for (String exp : experiancias) {
             sb.append("- ").append(exp).append("\n");
         }
         return sb.toString();
