@@ -9,9 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO_ClasesAbstractas/POO_ClasesAbstractas.iml" filepath="$PROJECT_DIR$/POO_ClasesAbstractas/POO_ClasesAbstractas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Poo/Poo.iml" filepath="$PROJECT_DIR$/Poo/Poo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Proyecto_Mamiferos/Proyecto_Mamiferos.iml" filepath="$PROJECT_DIR$/Proyecto_Mamiferos/Proyecto_Mamiferos.iml" />
       <module fileurl="file://$PROJECT_DIR$/appFacturas/appFacturas.iml" filepath="$PROJECT_DIR$/appFacturas/appFacturas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Poo_Herencia/poo_Herencia.iml" filepath="$PROJECT_DIR$/Poo_Herencia/poo_Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_interfaces/poo_interfaces.iml" filepath="$PROJECT_DIR$/poo_interfaces/poo_interfaces.iml" />
     </modules>
   </component>
 </project>
