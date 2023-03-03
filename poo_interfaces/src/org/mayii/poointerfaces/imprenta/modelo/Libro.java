@@ -1,5 +1,4 @@
 package org.mayii.poointerfaces.imprenta.modelo;
-
 import java.util.ArrayList;
 import java.util.List;
 
