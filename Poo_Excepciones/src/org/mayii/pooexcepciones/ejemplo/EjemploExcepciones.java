@@ -9,16 +9,14 @@ public class EjemploExcepciones {
             int divisor = Integer.parseInt(valor);
             int division = 10 / divisor;
             System.out.println(division);
-        } catch (NumberFormatException nfe){
+        } catch (NumberFormatException nfe) {
             System.out.println("Se detecto una excepción, ingresa un valor numérico: " + nfe.getMessage());
             main(args);
-        }
-        catch (ArithmeticException ae) {
+        } catch (ArithmeticException ae) {
             System.out.println("Capturamos la excepción en tiempo de ejecución: " + ae.getMessage());
             main(args);
 
-        }
-        finally {
+        } finally {
             System.out.println("Es opcional, pero se ejecuta siempre con o sin excepción.");
             main(args);
 
