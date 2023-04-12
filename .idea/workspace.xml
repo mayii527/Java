@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/Java8_Lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/EjemploConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/models/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/EjemploConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/EjemploConsumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -475,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681315632635</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Expresiones Lambda">
+      <created>1681327809653</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681327809653</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update and Foreach" />
     <MESSAGE value="update" />
     <MESSAGE value="News class" />
     <MESSAGE value="add files and update" />
@@ -515,7 +520,8 @@
     <MESSAGE value="New files Executor" />
     <MESSAGE value="New files Executor." />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="Expresiones Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expresiones Lambda" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

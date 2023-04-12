@@ -1,5 +1,7 @@
 package org.mayii.java8.lambda;
 
+import org.mayii.java8.lambda.models.Usuario;
+
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
@@ -26,7 +28,12 @@ public class EjemploConsumer {
         List<String> nombres = Arrays.asList("Mayii", "Thalii", "Fernando", "Hunter");
         nombres.forEach(consumidor2);
 
-
+        Usuario usuario = new Usuario();
+        BiConsumer<Usuario, String> asignarNombre = (persona, nombre) ->{
+          persona.setNombre(nombre);
+        };
+        asignarNombre.accept(usuario, "Mayii_C21");
+        System.out.println("Nombre ususario: " + usuario.getNombre());
     }
 
 }
