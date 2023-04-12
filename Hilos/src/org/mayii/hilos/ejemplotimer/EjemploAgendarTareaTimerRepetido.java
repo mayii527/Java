@@ -5,7 +5,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class EjemploAgendarTareaTimerPeriodo {
+public class EjemploAgendarTareaTimerRepetido {
     public static void main(String[] args) {
 
         AtomicInteger count = new AtomicInteger(3);
