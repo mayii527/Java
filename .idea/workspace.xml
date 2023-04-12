@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hilos/src/org/mayii/hilos/ejemploexecutor/EejmploExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hilos/src/org/mayii/hilos/ejemplotimer/EjemploAgendarTareaTimerPeriodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hilos/src/org/mayii/hilos/ejemplotimer/EjemploAgendarTareaTimerRepetido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hilos/src/org/mayii/hilos/ejemploexecutor/EjemploExecutorFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
       <recent name="D:\Java\clases_abstractas\src\org\aguzman\pooclasesabstractas\form\elementos" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.mayii.hilos.ejemploexecutor" />
       <recent name="org.mayii.hilos.ejemplotimer" />
       <recent name="org.mayii.hilos.ejemplos" />
       <recent name="org.mayii.ejemplos.set" />
@@ -444,7 +445,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681240777351</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="New files Executor">
+      <created>1681314127442</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1681314127442</updated>
+    </task>
+    <task id="LOCAL-00046" summary="New files Executor.">
+      <created>1681314224868</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681314224868</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -459,8 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="POO" />
-    <MESSAGE value="update and Switch" />
     <MESSAGE value="update and Foreach" />
     <MESSAGE value="update" />
     <MESSAGE value="News class" />
@@ -484,7 +497,9 @@
     <MESSAGE value="add" />
     <MESSAGE value="New files" />
     <MESSAGE value="New files TimerTask" />
-    <option name="LAST_COMMIT_MESSAGE" value="New files TimerTask" />
+    <MESSAGE value="New files Executor" />
+    <MESSAGE value="New files Executor." />
+    <option name="LAST_COMMIT_MESSAGE" value="New files Executor." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
