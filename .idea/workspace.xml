@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hilos/src/org/mayii/hilos/ejemploexecutor/EjemploExecutorFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8_Lambda/Java8_Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/EjemploConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -459,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681314224868</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="New files Executor.">
+      <created>1681315575533</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1681315575533</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix">
+      <created>1681315632635</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1681315632635</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +493,6 @@
     <MESSAGE value="update and Foreach" />
     <MESSAGE value="update" />
     <MESSAGE value="News class" />
-    <MESSAGE value="fix" />
     <MESSAGE value="add files and update" />
     <MESSAGE value="Orden Compra." />
     <MESSAGE value="." />
@@ -499,7 +514,8 @@
     <MESSAGE value="New files TimerTask" />
     <MESSAGE value="New files Executor" />
     <MESSAGE value="New files Executor." />
-    <option name="LAST_COMMIT_MESSAGE" value="New files Executor." />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
