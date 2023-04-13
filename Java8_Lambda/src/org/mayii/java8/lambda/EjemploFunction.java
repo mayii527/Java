@@ -12,7 +12,7 @@ public class EjemploFunction {
         Function<String, String> function2 = String::toUpperCase;
         System.out.println(function2.apply("mayii"));
 
-        BiFunction<String, String, String> funcion3 = (a,b) -> a.concat(b);
+        BiFunction<String, String, String> funcion3 = String::concat;
         System.out.println(funcion3.apply("Mayii", "Cadavid"));
 
     }
