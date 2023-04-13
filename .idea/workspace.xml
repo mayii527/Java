@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/EjemploInterfaceFunctional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/aritmetica/Aritmetica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/aritmetica/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java8_Lambda/org/mayii/java8/lambda/EjemploFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java8_Lambda/org/mayii/java8/lambda/EjemploFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/task/ClearPhrase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/task/DeleteSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
       <list>
         <option value="HTML File" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -138,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00006" summary="buscar elementos en una Matriz">
-      <created>1675354943444</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1675354943445</updated>
     </task>
     <task id="LOCAL-00007" summary="ejemplos">
       <created>1675359587975</created>
@@ -482,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681397031685</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary=" Creando propia expresión lambda con una interfaz funcional">
+      <created>1681397474193</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1681397474193</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="News class" />
     <MESSAGE value="add files and update" />
     <MESSAGE value="Orden Compra." />
@@ -522,7 +520,8 @@
     <MESSAGE value="New files Executor." />
     <MESSAGE value="fix" />
     <MESSAGE value="Expresiones Lambda" />
-    <option name="LAST_COMMIT_MESSAGE" value="Expresiones Lambda" />
+    <MESSAGE value=" Creando propia expresión lambda con una interfaz funcional" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Creando propia expresión lambda con una interfaz funcional" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
