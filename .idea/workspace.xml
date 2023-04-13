@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStreamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +59,11 @@
       <recent name="D:\Java\clases_abstractas\src\org\aguzman\pooclasesabstractas\form\elementos" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.mayii.api.stream.ejemplos" />
       <recent name="org.mayii.hilos.ejemploexecutor" />
       <recent name="org.mayii.hilos.ejemplotimer" />
       <recent name="org.mayii.hilos.ejemplos" />
       <recent name="org.mayii.ejemplos.set" />
-      <recent name="" />
     </key>
   </component>
   <component name="RunManager">
@@ -135,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00010" summary="ejercicios">
-      <created>1675441559803</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1675441559803</updated>
     </task>
     <task id="LOCAL-00011" summary="POO">
       <created>1675448232478</created>
@@ -479,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681404432222</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="API Stream">
+      <created>1681404788896</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1681404788896</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
