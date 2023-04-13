@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/task/ClearPhrase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8_Lambda/src/org/mayii/java8/lambda/task/DeleteSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Stream/API_Stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
       <list>
         <option value="HTML File" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -137,20 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ejemplos">
-      <created>1675359587975</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675359587976</updated>
-    </task>
-    <task id="LOCAL-00008" summary="ejemplos">
-      <created>1675359721578</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1675359721578</updated>
     </task>
     <task id="LOCAL-00009" summary="ejemplos y ejercicios">
       <created>1675438567851</created>
@@ -481,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681397474193</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary=" Task, expresion Lambda">
+      <created>1681400256329</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1681400256329</updated>
+    </task>
+    <task id="LOCAL-00057" summary="delete file">
+      <created>1681400378138</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1681400378139</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,8 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="News class" />
-    <MESSAGE value="add files and update" />
     <MESSAGE value="Orden Compra." />
     <MESSAGE value="." />
     <MESSAGE value="app facturas" />
@@ -521,7 +520,9 @@
     <MESSAGE value="fix" />
     <MESSAGE value="Expresiones Lambda" />
     <MESSAGE value=" Creando propia expresión lambda con una interfaz funcional" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Creando propia expresión lambda con una interfaz funcional" />
+    <MESSAGE value=" Task, expresion Lambda" />
+    <MESSAGE value="delete file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
