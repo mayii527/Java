@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStreamMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00011" summary="POO">
-      <created>1675448232478</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1675448232478</updated>
     </task>
     <task id="LOCAL-00012" summary="POO">
       <created>1675696002452</created>
@@ -480,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681404788896</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="API Stream Map">
+      <created>1681405216369</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1681405216369</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="app facturas" />
     <MESSAGE value="update files and new files" />
     <MESSAGE value="Almacen de productos" />
@@ -520,7 +516,8 @@
     <MESSAGE value=" Task, expresion Lambda" />
     <MESSAGE value="delete file" />
     <MESSAGE value="API Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="API Stream" />
+    <MESSAGE value="API Stream Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Stream Map" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
