@@ -1,8 +1,7 @@
 package org.mayii.optional.ejemplo;
 
 import org.mayii.optional.ejemplo.models.Computador;
-import org.mayii.optional.ejemplo.repositorio.ComputadorRepositorio;
-import org.mayii.optional.ejemplo.repositorio.Repositorio;
+import org.mayii.optional.ejemplo.repositorio.*;
 
 public class EjemploRepositorioOrElse {
     public static void main(String[] args) {
