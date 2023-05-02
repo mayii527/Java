@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="" />
+    <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStreamMap.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +69,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="EjemploException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EjemploException" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.mayii.pooexcepciones.ejemplo.EjemploException" />
       <module name="Poo_Excepciones" />
       <extension name="coverage">
@@ -118,7 +123,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjemploException" />
         <item itemvalue="Application.EjemploExtenderThread" />
         <item itemvalue="Application.EjemploRepositorio" />
         <item itemvalue="Application.EjemploImprenta" />
@@ -133,20 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00012" summary="POO">
-      <created>1675696002452</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1675696002452</updated>
-    </task>
-    <task id="LOCAL-00013" summary="update">
-      <created>1675701669131</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1675701669131</updated>
     </task>
     <task id="LOCAL-00014" summary="update">
       <created>1675703494620</created>
@@ -477,7 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681405216369</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary=".">
+      <created>1681405618284</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1681405618284</updated>
+    </task>
+    <task id="LOCAL-00062" summary=".">
+      <created>1681405635824</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1681405635824</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="app facturas" />
     <MESSAGE value="update files and new files" />
     <MESSAGE value="Almacen de productos" />
     <MESSAGE value="Clases Abstractas" />
@@ -517,7 +520,8 @@
     <MESSAGE value="delete file" />
     <MESSAGE value="API Stream" />
     <MESSAGE value="API Stream Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="API Stream Map" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
