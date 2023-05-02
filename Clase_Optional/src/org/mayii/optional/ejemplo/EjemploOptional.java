@@ -10,8 +10,6 @@ public class EjemploOptional {
         System.out.println("opt = " + opt);
         System.out.println(opt.isPresent());
 
-        if (opt.isPresent()) {
-            System.out.println("Hola " + opt.get());
-        }
+        opt.ifPresent(s -> System.out.println("Hola " + s));
     }
 }
