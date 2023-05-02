@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/models/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/repositorio/ComputadorRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/repositorio/Repositorio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/API_Stream/src/org/mayii/api/stream/ejemplos/EjemploStreamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase_Optional/org/mayii/optional/ejemplo/EjemploOptional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Clase_Optional/org/mayii/optional/ejemplo/EjemploOptional.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,20 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00014" summary="update">
-      <created>1675703494620</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1675703494620</updated>
-    </task>
-    <task id="LOCAL-00015" summary="update and Switch">
-      <created>1675865195671</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1675865195671</updated>
     </task>
     <task id="LOCAL-00016" summary="update and Foreach">
       <created>1675865659917</created>
@@ -481,7 +469,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681405635824</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Clase Optional">
+      <created>1683039539648</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1683039539649</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Clase Optional">
+      <created>1683039623628</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1683039623628</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update files and new files" />
     <MESSAGE value="Almacen de productos" />
     <MESSAGE value="Clases Abstractas" />
     <MESSAGE value="Clases Abstractas,fix indentation" />
@@ -521,7 +522,8 @@
     <MESSAGE value="API Stream" />
     <MESSAGE value="API Stream Map" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Clase Optional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase Optional" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
