@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/models/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/repositorio/ComputadorRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/repositorio/Repositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase_Optional/org/mayii/optional/ejemplo/EjemploOptional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Clase_Optional/org/mayii/optional/ejemplo/EjemploOptional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploRepositorioOrElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +58,11 @@
       <recent name="D:\Java\clases_abstractas\src\org\aguzman\pooclasesabstractas\form\elementos" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.mayii.optional.ejemplo" />
       <recent name="org.mayii.api.stream.ejemplos" />
       <recent name="org.mayii.hilos.ejemploexecutor" />
       <recent name="org.mayii.hilos.ejemplotimer" />
       <recent name="org.mayii.hilos.ejemplos" />
-      <recent name="org.mayii.ejemplos.set" />
     </key>
   </component>
   <component name="RunManager">
@@ -139,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00016" summary="update and Foreach">
-      <created>1675865659917</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1675865659917</updated>
     </task>
     <task id="LOCAL-00017" summary="update">
       <created>1675865722175</created>
@@ -483,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683039623628</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Clase Optional Repositorio">
+      <created>1683043762815</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1683043762815</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Almacen de productos" />
     <MESSAGE value="Clases Abstractas" />
     <MESSAGE value="Clases Abstractas,fix indentation" />
     <MESSAGE value="Mamíferos" />
@@ -523,7 +517,8 @@
     <MESSAGE value="API Stream Map" />
     <MESSAGE value="." />
     <MESSAGE value="Clase Optional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase Optional" />
+    <MESSAGE value="Clase Optional Repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase Optional Repositorio" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
