@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploRepositorioOrElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploRepositorioOrElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase_Optional/src/org/mayii/optional/ejemplo/EjemploRepositorioOrElseThrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00018" summary="News class">
-      <created>1675873008104</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1675873008104</updated>
     </task>
     <task id="LOCAL-00019" summary="fix">
       <created>1675873361512</created>
@@ -478,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683044253230</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary=".">
+      <created>1683044532949</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1683044532949</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,11 +515,11 @@
     <MESSAGE value="delete file" />
     <MESSAGE value="API Stream" />
     <MESSAGE value="API Stream Map" />
-    <MESSAGE value="." />
     <MESSAGE value="Clase Optional" />
     <MESSAGE value="Clase Optional Repositorio" />
     <MESSAGE value="Clase Optional Repositorio OrElse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase Optional Repositorio OrElse" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
