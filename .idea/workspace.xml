@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DateTime/src/org/mayii/datetime/ejemplos/EjemploLocalDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +63,7 @@
       <recent name="org.mayii.hilos.ejemplotimer" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EjemploException">
     <configuration name="EjemploException" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.mayii.pooexcepciones.ejemplo.EjemploException" />
       <module name="Poo_Excepciones" />
@@ -135,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Almacen de productos">
-      <created>1676924971962</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1676924971962</updated>
     </task>
     <task id="LOCAL-00026" summary="Clases Abstractas">
       <created>1677174207112</created>
@@ -479,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683146841484</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="new files">
+      <created>1683147505351</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1683147505352</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new files and update" />
     <MESSAGE value="fix indentation" />
     <MESSAGE value="Interfaces" />
     <MESSAGE value="manejando excepciones" />
@@ -519,7 +515,8 @@
     <MESSAGE value="Date Time" />
     <MESSAGE value="Local Time" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
