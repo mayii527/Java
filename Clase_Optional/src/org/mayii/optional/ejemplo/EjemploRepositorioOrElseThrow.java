@@ -8,7 +8,7 @@ public class EjemploRepositorioOrElseThrow {
     public static void main(String[] args) {
         Repositorio<Computador> repositorio = new ComputadorRepositorio();
 
-        Computador pc = repositorio.filtrar("asuls").orElseThrow();
+        Computador pc = repositorio.filtrar("asuls").orElseThrow() ;
         System.out.println(pc);
 
     }
