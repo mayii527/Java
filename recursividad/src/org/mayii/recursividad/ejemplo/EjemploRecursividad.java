@@ -2,6 +2,8 @@ package org.mayii.recursividad.ejemplo;
 
 import org.mayii.recursividad.ejemplo.models.Componente;
 
+import java.util.stream.Stream;
+
 public class EjemploRecursividad {
     public static void main(String[] args) {
 
@@ -35,7 +37,15 @@ public class EjemploRecursividad {
                 .addComponente(new Componente("Teclado"))
                 .addComponente(new Componente("Mouse"));
 
-        metodoRecursivo(pc, 0);
+        metodoRecursivoJava8(pc, 0).forEach(c -> System.out.println("\t".repeat(c.getNivel()) + c.getNombre()));
+
+    }
+
+    public static Stream<Componente> metodoRecursivoJava8(Componente c, int nivel) {
+        c.setNivel(nivel);
+
+        return Stream.concat(Stream.of(c), c.getHijos().stream()
+                .flatMap(hijo -> metodoRecursivoJava8(hijo, nivel + 1)));
 
     }
 

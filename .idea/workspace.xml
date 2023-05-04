@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/recursividad/recursividad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/EjemploRecursividad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/models/Componente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/EjemploRecursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/EjemploRecursividad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/models/Componente.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/models/Componente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Mamíferos">
-      <created>1677186320227</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1677186320227</updated>
     </task>
     <task id="LOCAL-00029" summary="Mamíferos main">
       <created>1677186578868</created>
@@ -484,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683148949493</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Recursividad">
+      <created>1683225997106</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1683225997107</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Interfaces" />
     <MESSAGE value="manejando excepciones" />
     <MESSAGE value="fix identation" />
     <MESSAGE value="add" />
@@ -524,7 +521,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="new files" />
     <MESSAGE value="Calcular edad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calcular edad" />
+    <MESSAGE value="Recursividad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursividad" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
