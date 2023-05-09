@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0472f63-bc41-4044-aeac-fad2cfaa9c81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/EjemploRecursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/EjemploRecursividad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/models/Componente.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursividad/src/org/mayii/recursividad/ejemplo/models/Componente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/API_Stream/org/mayii/api/stream/ejemplos/EjemploStreamMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API_Stream/org/mayii/api/stream/ejemplos/EjemploStreamMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hilos/org/aguzman/hilos/ejemploexecutor/EjemploExecutorFuture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java8_Lambda/org/mayii/java8/lambda/task/ClearPhrase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java8_Lambda/org/mayii/java8/lambda/task/DeleteSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java8_Lambda/org/mayii/java8/lambda/task/DeleteSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_ClasesAbstractas/org/mayii/pooclasesabtractas/form/EjemploForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_ClasesAbstractas/org/mayii/pooclasesabtractas/form/EjemploForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_ClasesAbstractas/org/mayii/pooclasesabtractas/form/elementos/SelectForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_ClasesAbstractas/org/mayii/pooclasesabtractas/form/elementos/SelectForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poo_interfaces_repositorio/org/mayii/generics/EjemploGenerics.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +75,7 @@
       <recent name="org.mayii.hilos.ejemplotimer" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EjemploException">
     <configuration name="EjemploException" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.mayii.pooexcepciones.ejemplo.EjemploException" />
       <module name="Poo_Excepciones" />
@@ -138,20 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674840100888</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Mamíferos main">
-      <created>1677186578868</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1677186578868</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Interfaces">
-      <created>1677507570363</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1677507570363</updated>
     </task>
     <task id="LOCAL-00031" summary="add files">
       <created>1677509403602</created>
@@ -482,7 +474,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683225997107</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Recursividad Java8">
+      <created>1683226410590</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1683226410590</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Recursividad update">
+      <created>1683226485935</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1683226485935</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,8 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="manejando excepciones" />
-    <MESSAGE value="fix identation" />
     <MESSAGE value="add" />
     <MESSAGE value="New files" />
     <MESSAGE value="New files TimerTask" />
@@ -522,7 +526,9 @@
     <MESSAGE value="new files" />
     <MESSAGE value="Calcular edad" />
     <MESSAGE value="Recursividad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursividad" />
+    <MESSAGE value="Recursividad Java8" />
+    <MESSAGE value="Recursividad update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursividad update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
