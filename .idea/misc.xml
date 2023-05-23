@@ -5,12 +5,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Java_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/junit_app/pom.xml" />
+        <option value="$PROJECT_DIR$/junit5_app/pom.xml" />
+        <option value="$PROJECT_DIR$/laura/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Java_jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/java_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/junit5_app/pom.xml" />
+        <option value="$PROJECT_DIR$/laura/pom.xml" />
       </set>
     </option>
   </component>
